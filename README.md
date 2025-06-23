@@ -14,7 +14,7 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 
 ## 提出アイデア一覧
 1. **きのこの山 vs たけのこの里 貢献対抗戦 🍄🍡**  
-   - [ディスカッションを見る](#)  
+   - https://github.com/Kaisei-a/AttractingContributors/discussions/1#discussion-8482631 
 2. **（アイデア2のタイトル）**  
    - [ディスカッションを見る](#)  
 3. **（アイデア3のタイトル）**  
