@@ -7,6 +7,6 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 例：
 - 4 Discussions:URL README.md:URL
 ## あなたの好きな数字を書いてください
-- 
+- 7 https://github.com/KokiInaeNAIST/AttractingContributors
 - 
 - 
