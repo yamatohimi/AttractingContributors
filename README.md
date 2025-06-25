@@ -4,3 +4,4 @@
 - tuna mayonnaise
 - kelp
 - syake!!
+- kombu
