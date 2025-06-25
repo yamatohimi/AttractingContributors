@@ -7,3 +7,4 @@
 - kombu
 - konbu
 - tuna mayo!
+- plum
