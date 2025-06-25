@@ -5,3 +5,4 @@
 - kelp
 - syake!!
 - kombu
+- konbu
