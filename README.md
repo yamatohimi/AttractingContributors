@@ -6,3 +6,4 @@
 - syake!!
 - kombu
 - konbu
+- plum
