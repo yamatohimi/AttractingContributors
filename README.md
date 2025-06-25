@@ -6,4 +6,5 @@
 - syake!!
 - kombu
 - konbu
+- tuna mayo!
 - plum
