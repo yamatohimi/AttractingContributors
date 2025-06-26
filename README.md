@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Pls let me know your summer plans
 
-# List of place
-- mamemame saisai
-- Gusto
+# summer plans
+- going to Nagasaki
+- 
