@@ -32,7 +32,7 @@ Any contribution, no matter how small, is welcome! Feel free to join in.
 | **ChatGPT** | 文章生成 / Text Gen | 対話、文章作成、アイデア出し、翻訳、要約、コード生成。<br>Conversation, text creation, brainstorming, translation, summarization, code generation. | とにかく万能。自然な対話で壁打ち相手になってくれるのが最高。<br>Extremely versatile. Great for brainstorming through natural conversation. | [https://chat.openai.com/](https://chat.openai.com/) |
 | **GitHub Copilot** | コーディング支援 / Coding | コードの自動補完、関数やテストコードの自動生成。<br>Code auto-completion, automatic generation of functions and test code. | コーディング速度が爆上がりします。コメントを書くだけでコードを提案してくれる神ツール。<br>Dramatically speeds up coding. A fantastic tool that suggests code just from writing comments. | [https://github.com/features/copilot](https://github.com/features/copilot) |
 | **DeepL** | 翻訳 / Translation | 高精度な文章翻訳。<br>High-precision text translation. | 専門用語や微妙なニュアンスも自然に訳してくれる。論文を読むときには必須。<br>Translates technical terms and subtle nuances naturally. Essential for reading academic papers. | [https://www.deepl.com/](https://www.deepl.com/) |
-| **(ここにあなたのオススメを追加 / Add Your Favorite Here)** | (例：画像生成 / e.g., Image Gen) | (例：テキストから画像を生成 / e.g., Generate images from text) | (例：簡単な呪文で高品質な画像が作れる / e.g., Creates high-quality images with simple prompts) | (アプリのURL / App URL) |
+| **(ここにあなたのオススメを追加 / Add Your Favorite Here)** | (例：画像生成 / e.g., Image Gen) | (例：テキストから画像を生成 / e.g., Generate images from text) | (例：簡単なプロンプトで高品質な画像が作れる / e.g., Creates high-quality images with simple prompts) | (アプリのURL / App URL) |
 
 
 ---
