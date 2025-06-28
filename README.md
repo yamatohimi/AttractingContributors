@@ -22,8 +22,8 @@ Contributions are very welcome! Please follow these steps to add your favorite A
 4.  編集が終わったら、変更内容をコミットし、**Pull Request** を作成してください。  
     After editing, commit your changes and create a **Pull Request**.
 
-どんな小さな情報でも大歓迎です！お気軽にどうぞ。  
-Any contribution, no matter how small, is welcome! Feel free to join in.
+同じアプリケーションについてでも、どんな小さな情報でも大歓迎です！お気軽にどうぞ。  
+Any contribution, even about the same application, no matter how small, is welcome! Feel free to join in.
 
 ## 🤖 おすすめAIアプリケーションリスト / List of Recommended AI Applications
 
