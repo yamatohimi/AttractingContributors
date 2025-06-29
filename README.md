@@ -8,3 +8,4 @@
 - Spain for watching football
 - Antarctic to meet penguins.
 - Australia for diving.
+- Italy to explore its history and cuisine.
