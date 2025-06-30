@@ -11,3 +11,4 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 - 93 https://github.com/Mori-Eish/AttractingContributors
 - 114
 - 95
+- 84
