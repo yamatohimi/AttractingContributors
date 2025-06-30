@@ -9,4 +9,4 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 ## あなたの好きな数字を書いてください
 - 7 https://github.com/KokiInaeNAIST/AttractingContributors
 - 93 https://github.com/Mori-Eish/AttractingContributors
-- 
+- 114
