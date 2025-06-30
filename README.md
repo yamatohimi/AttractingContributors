@@ -9,4 +9,5 @@
 - Antarctic to meet penguins.
 - Australia for diving.
 - Italy to explore its history and cuisine.
+- IceIsland to see aurora.
 - Gartang Gali, Uttarakhand, India. 
