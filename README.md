@@ -30,6 +30,7 @@ Any contribution, even about the same application, no matter how small, is welco
 | アプリケーション名 / App Name | カテゴリ / Category | 主な用途・できること / Main Use & Features | ここがオススメ！ / Recommended Points | URL |
 | :--- | :--- | :--- | :--- | :--- |
 | **ChatGPT** | 文章生成 / Text Gen | 対話、文章作成、アイデア出し、翻訳、要約、コード生成。<br>Conversation, text creation, brainstorming, translation, summarization, code generation. | とにかく万能。自然な対話で壁打ち相手になってくれるのが最高。<br>Extremely versatile. Great for brainstorming through natural conversation. | [https://chat.openai.com/](https://chat.openai.com/) |
+| **Gemini** | 文章生成 / Text Gen | 数値計算プログラミング | 精度が高いと感じています | [(アプリのURL / App URL)](https://gemini.google.com/?hl=ja) |
 | **(ここにあなたのオススメを追加 / Add Your Favorite Here)** | (例：画像生成 / e.g., Image Gen) | (例：テキストから画像を生成 / e.g., Generate images from text) | (例：簡単なプロンプトで高品質な画像が作れる / e.g., Creates high-quality images with simple prompts) | (アプリのURL / App URL) |
 
 
