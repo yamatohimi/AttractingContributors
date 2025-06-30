@@ -1,5 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# How do you maintain your physical and mental health?
 
-# List of place
-- mamemame saisai
-- Gusto
+- Eat healthy
+- Do high intensity excerscies (running)
+- Do muscle training (lfiting weights)
+- Have 1 or 2 hobbies
+- Make friends
