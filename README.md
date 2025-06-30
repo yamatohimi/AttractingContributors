@@ -9,3 +9,4 @@
 - tuna mayo!
 - plum
 - pickled plum and dried bonito flakes/うめおかか
+- wasabi
