@@ -2,3 +2,4 @@
 
 # List of place
 - グミ
+- Potato Chips(Calbee)
