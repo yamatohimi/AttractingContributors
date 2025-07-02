@@ -10,3 +10,4 @@
 # List of game
 - genshin
 - DragonQuest
+- Zenless Zone Zero
