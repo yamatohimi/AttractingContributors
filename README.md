@@ -5,3 +5,4 @@
 - Do muscle training (lfiting weights)
 - Have 1 or 2 hobbies
 - Make friends
+- Take enough sleep
