@@ -3,3 +3,4 @@
 - genshin
 - DragonQuest
 - Zenless Zone Zero
+- Pocket monsters Violet
