@@ -3,3 +3,5 @@
 # List of place
 - mamemame saisai
 - Gusto
+- Sushiro
+- Sariya
