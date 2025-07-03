@@ -7,6 +7,7 @@
 - Make friends
 - Take enough sleep
 - Listen to music
+- Sleep
 - chat with my partner
 - talk with family member
 
