@@ -9,3 +9,4 @@
 - life
 - oasis
 - okuwa
+- Gyomu Super
