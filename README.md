@@ -3,3 +3,7 @@
 # List of place
 - 阪神タイガース
 - 中日ドラゴンズ
+- DeNAベイスターズ
+- Los Angeles Clippers
+- ドジャース/Dodgers(MLB)
+- Fukuoka SoftBank Hawks
