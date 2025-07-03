@@ -8,4 +8,5 @@
 - Take enough sleep
 - Listen to music
 - chat with my partner
+- talk with family member
 
