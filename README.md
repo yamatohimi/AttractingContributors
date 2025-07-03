@@ -2,3 +2,4 @@
 
 # List of place
 - ドジャース/Dodgers(MLB)
+- Fukuoka SoftBank Hawks
