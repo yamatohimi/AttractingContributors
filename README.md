@@ -2,3 +2,5 @@
 
 # List of place
 - Los Angeles Clippers
+- ドジャース/Dodgers(MLB)
+- Fukuoka SoftBank Hawks
