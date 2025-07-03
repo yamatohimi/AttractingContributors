@@ -7,4 +7,5 @@
 - Make friends
 - Take enough sleep
 - Listen to music
+- Sleep
 
